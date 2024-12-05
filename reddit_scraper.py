@@ -2,8 +2,8 @@ import praw
 import pandas as pd
 
 # Reddit API credentials
-CLIENT_ID = 'VRS6DQOEozc_el265Y3ENw'          # Replace with your actual Client ID
-CLIENT_SECRET = 'u3prqyHtnAyGHm1r480ny9jZhqX9wQ'  # Replace with your actual Client Secret
+CLIENT_ID = '.....'          # Replace with your actual Client ID
+CLIENT_SECRET = '.....'  # Replace with your actual Client Secret
 USER_AGENT = 'Education_post_collector'  # A unique identifier for your app
 
 # Set up Reddit API client
